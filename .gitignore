@@ -1,0 +1,42 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Visual Studio Code
+.vscode/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Database artifacts
+*.mdf
+*.ldf
+*.ndf
+
+# Generated files
+*.cache
+*.class
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# JetBrains
+.idea/
+
+# NPM
+node_modules/
+
+# Misc
+*.obj
+*.exe
+*.dll
+*.pdb
