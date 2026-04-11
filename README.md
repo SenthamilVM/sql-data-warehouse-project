@@ -73,3 +73,9 @@ data-warehouse-project/
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
 ```
+
+---
+
+## 🙏 Acknowledgment
+
+This project is inspired by **DataWithBaraa** and has been independently implemented to reinforce and demonstrate SQL datawarehousing skills.
